@@ -1,0 +1,4 @@
+name : ass-1.stl
+version : 2.19
+in-fill : 17%
+color : orange
