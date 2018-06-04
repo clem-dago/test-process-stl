@@ -1,0 +1,12 @@
+Nom de la pièce,A
+Produit parent,DE200
+N° de version,1.0
+Change log,création
+orientation,X.jpg
+remplissage,17%
+support,NON
+matière,
+couleur,orange
+couplage avec une autre pièce (dépendance),NON
+définition des surfaces fonctionnelles + dimensions,X.pdf
+statut d’invalidation des précédent (destruction du stock),OUI
