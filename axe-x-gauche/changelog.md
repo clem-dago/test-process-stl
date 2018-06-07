@@ -1,5 +1,6 @@
 # Changelog
 All notable changes to this object will be documented in this file.
+Only tags are official versions.
 
 ## [3.0] - 2018-06-07
 - Last commit by orel : change blabla
