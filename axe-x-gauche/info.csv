@@ -1,15 +1,14 @@
 R&D,
-Nom de la pièce,axe-x-gauche-3-1-b.STL
-Produit parent,addon trapez
-N° de version,3.1
-Change log,piece add-on trapez
-orientation,X.jpg
+Nom de la pièce,axe-x-gauche.stl
+Parent,addon trapez
+Version,3.1
+orientation,orientation.jpg
 remplissage,17%
 support,non
 matière,PLA octo
 couleur,gris anthracite
-couplage avec une autre pièce (dépendance),axe-x-droite-3-1.STL
-définition des surfaces fonctionnelles + dimensions,Y.jpg
+couplage avec une autre pièce (dépendance),axe-x-droite.stl
+définition des surfaces fonctionnelles + dimensions,spec.jpg
 statut d’invalidation des précédent (destruction du stock),non
 ,
 Preprod,
